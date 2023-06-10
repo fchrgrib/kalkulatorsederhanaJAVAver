@@ -1,5 +1,2 @@
-aplikasi kalkulator dibuat pake java
-fiturnya ada kali, bagi, kurang, tambah, pangkat, mod, sama clear all 
-
-ini aplikasi masih cacat karena buttonnya ga responsive soalnya kalkulator ini di khususkan untuk Smartphone Pixel 4
-pengen saya nambah cantikin tapi mager jujur yang penting jalan
+#Calculator App
+This App is for calculate a div of numbers, multiple of numbers, sum of numbers, subtract of number or you can calculate with all of that variants with the number you are choice. I build this app using java programming language and design the UI with XML. btw this app is'nt responsive because it's exclusive for Nexus 6. feel free to feedback this app.
